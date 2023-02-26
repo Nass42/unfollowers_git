@@ -1,4 +1,4 @@
-Github Unfollowers Script
+# Github Unfollowers Script
 
 This script will help you to unfollow users who don't follow you back on Github.
 
